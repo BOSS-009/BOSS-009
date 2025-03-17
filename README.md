@@ -1,43 +1,36 @@
-# 👋 Hi, I'm **Punith Kumar B.**
-🚀 **Software Developer | AI & ML Enthusiast | Database Engineer | Startup Co-Founder**
+# 💫 About Me:
+🙋‍♂️ Hey there! I'm **Punith Kumar B.**, a **Software Developer, AI/ML Enthusiast, and Blockchain Explorer** with experience in **Python, Flask, Django, PostgreSQL, and MongoDB**.  
+🚀 Currently, I'm working as an **ML Software Engineer Intern** and have collaborated with **SPMIL, BEML, and IT service companies**. I'm also a **startup co-founder**, merging technology with business innovation.  
 
-## 💡 About Me
-I'm a dedicated **Software Developer** with over **6 months of experience** in the tech industry. My journey has led me to collaborate with esteemed organizations such as **SPMIL** and **BEML**, and I'm currently contributing as an **ML Software Engineer Intern** at an IT services company.
-
-Beyond my professional roles, I co-founded a startup, merging my passion for technology and business innovation.
-
----
-
-## 🛠️ Tech Stack & Expertise
-- **Languages:** Python (Primary), SQL
-- **Backend Frameworks:** Flask (Primary), Django
-- **Databases:** PostgreSQL, MongoDB
-- **Machine Learning:** Model Development, AI Implementations
-- **App Development:** Flutter (Web, Mobile, Desktop)
-- **Other Skills:** Data Structures & Algorithms
+💡 Passionate about **backend development, AI/ML, blockchain, and cloud computing**.  
+🏍️ Love **bike riding** and catching up on **sleep after long coding sessions**. 😆  
 
 ---
 
-## 🎯 What I Do
-- 💻 **Backend Development:** Crafting scalable web services using **Flask** and **Django**
-- 🧠 **AI & ML:** Designing and implementing machine learning models in **Python**
-- 🛢️ **Database Management:** Expertise in **SQL**, **MongoDB**, and **PostgreSQL**
-- 📱 **Cross-Platform App Development:** Developing applications with **Flutter**
-- 🚀 **Entrepreneurship:** Leading tech-driven solutions as a startup co-founder
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punith-kumar-b-969915355)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PunithKumar)  
 
 ---
 
-## ⚡ Fun Facts
-- 🏍️ **Avid Bike Rider**
-- 😴 **Often Sleep-Deprived Due to Work Commitments**
-- 🔥 **Tech and Business Enthusiast**
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Blockchain](https://img.shields.io/badge/blockchain-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)  
 
 ---
 
-## 📫 Let's Connect
-- **GitHub:** [Punith Kumar B.](https://github.com/PunithKumar)
-- **LinkedIn:** [Punith Kumar B.](https://www.linkedin.com/in/punith-kumar-b-969915355)
-- **Email:** punithkumarb073@gmail.com
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PunithKumar&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PunithKumar&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PunithKumar&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-*I'm always open to collaborations, discussions, and new opportunities!*
-# PUNITH-KUMAR-B
+---
+
+[![](https://visitcount.itsvg.in/api?id=PunithKumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
