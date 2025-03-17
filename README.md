@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PunithKumar&theme=onedark&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunithKumar&theme=onedark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunithKumar&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PunithKumar&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PunithKumar&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PunithKumar&theme=onedark">
 </p>
 
 ---
