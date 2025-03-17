@@ -30,10 +30,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PunithKumar&theme=onedark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PunithKumar&theme=onedark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PunithKumar&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BOSS-009&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BOSS-009&theme=onedark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOSS-009&theme=onedark">
 </p>
+
 
 ---
 
