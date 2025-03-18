@@ -32,7 +32,7 @@
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BOSS-009&theme=onedark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BOSS-009&theme=onedark">
-    <img src="https://github-readme-stats.vercel.app/api?username=BOSS-009&show_icons=true&theme=dark&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=BOSS-009&show_icons=true&theme=dark&include_all_commits="true">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOSS-009&theme=onedark">
 </p>
 
