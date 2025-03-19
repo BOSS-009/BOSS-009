@@ -41,8 +41,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOSS-009&theme=dark&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api?username=BOSS-009&show_icons=true&theme=dark&include_all_commits=true">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOSS-009&theme=onedark">
-    <img src="https://github-contributor-stats.vercel.app/api?username=BOSS-009">
 </p>
+
 
 
 ---
