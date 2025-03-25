@@ -41,8 +41,6 @@
     <img src="https://img.shields.io/badge/cnn-%230072C6.svg?style=for-the-badge&logo=deeplearning&logoColor=white">
     <img src="https://img.shields.io/badge/image%20processing-%23F7931E.svg?style=for-the-badge&logo=opencv&logoColor=white">
     <img src="https://img.shields.io/badge/deep%20learning-%230072C6.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/web3.js-%231E2A3A.svg?style=for-the-badge&logo=web3.js&logoColor=white">
-    <img src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
     <img src="https://img.shields.io/badge/hyperledger%20fabric-%230078D4.svg?style=for-the-badge&logo=hyperledger&logoColor=white">
     <img src="https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
