@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hey there! I'm **PUNITH KUMAR B**, a **Software Developer, AI/ML Enthusiast, and Blockchain Explorer** with experience in **Python, Flask, Flutter, PostgreSQL, and SQL**.  
+🙋‍♂️ Hey there! I'm **PUNITH KUMAR B**, a **Software Developer, AI/ML Enthusiast, and Web3 Developer** with experience in **Python, Flask, Flutter, PostgreSQL, and SQL**.  
 🚀 Currently, I'm working as an **ML Software Engineer Intern** and have collaborated with **SPMIL, BEML, and IT service companies**. I'm also a **startup co-founder**, merging technology with business innovation.  
 
 💡 Passionate about **backend development, AI/ML, blockchain, and cloud computing**.  
