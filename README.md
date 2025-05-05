@@ -1,16 +1,15 @@
-# 💫 About Me:
-🙋‍♂️ Hey there! I'm **PUNITH KUMAR B**, a **Software Developer, AI/ML Enthusiast, and Web3 Developer** with experience in **Python, Flask, Flutter, PostgreSQL, and SQL**.  
-🚀 Currently, I'm working as an **ML Software Engineer Intern** and have collaborated with **SPMIL, BEML, and IT service companies**. I'm also a **startup co-founder**, merging technology with business innovation.  
+##💫 About Me:
+🙋‍♂️ Hey there! I'm PUNITH KUMAR B, a Software Developer, AI/ML Enthusiast, and Web3 Developer with experience in Python, Flask, PostgreSQL, SQL, and Smart Contract Development.
+🚀 Currently, I'm working as an ML Software Engineer Intern and have collaborated with SPMIL, BEML, and IT service companies. I'm also a startup co-founder, merging technology with business innovation.
 
-💡 Passionate about **backend development, AI/ML, blockchain, and cloud computing**.  
-🏍️ Love **bike riding** and catching up on **sleep after long coding sessions**. 😆  
-
+💡 Passionate about backend development, AI/ML, blockchain, Web3, and cloud computing. I’ve built smart contracts, integrated with IPFS, and explored the full stack of decentralized technologies.
+🏍️ Love bike riding, sleeping after long coding sessions, and geeking out over emerging tech, good music, and random late-night debugging wins. 😄
 ---
 
 ## 🌐 Socials:
 <p align="center">
     <a href="https://www.linkedin.com/in/punith-kumar-b-969915355"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/PunithKumar"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/BOSS-009"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -41,8 +40,12 @@
     <img src="https://img.shields.io/badge/cnn-%230072C6.svg?style=for-the-badge&logo=deeplearning&logoColor=white">
     <img src="https://img.shields.io/badge/image%20processing-%23F7931E.svg?style=for-the-badge&logo=opencv&logoColor=white">
     <img src="https://img.shields.io/badge/deep%20learning-%230072C6.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/web3-%23E10098.svg?style=for-the-badge&logo=web3.js&logoColor=white">
     <img src="https://img.shields.io/badge/hyperledger%20fabric-%230078D4.svg?style=for-the-badge&logo=hyperledger&logoColor=white">
+    <img src="https://img.shields.io/badge/smart%20contracts-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white">
     <img src="https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white">
+    <img src="https://img.shields.io/badge/stellar-%23FF6A00.svg?style=for-the-badge&logo=stellar&logoColor=white">
+    <img src="https://img.shields.io/badge/ipfs-%2361DAFB.svg?style=for-the-badge&logo=ipfs&logoColor=black">
 </p>
 
 ---
@@ -56,10 +59,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOSS-009&theme=onedark">
 </p>
 
-
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PunithKumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BOSS-009&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
